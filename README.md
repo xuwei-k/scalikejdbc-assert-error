@@ -1,5 +1,6 @@
 
-https://travis-ci.org/xuwei-k/scalikejdbc-assert-error/jobs/215490618#L393
+- https://travis-ci.org/xuwei-k/scalikejdbc-assert-error/jobs/215490618#L393
+- https://github.com/scala/scala/blob/v2.12.1/src/compiler/scala/tools/nsc/typechecker/SuperAccessors.scala#L380
 
 ```
 TREE: scalikejdbc.update(bar).set().where.eq(MyClass.column.a, Foo(1))
